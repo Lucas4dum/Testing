@@ -17,7 +17,7 @@ namespace Client
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // Implementacao feita pelo lucas
+            // Otávio
         }
     }
 }
