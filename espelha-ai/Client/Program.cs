@@ -18,8 +18,6 @@ namespace Client
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             // Otávio
-            // eu que fiz ttudo oyavio n fez nada
-            // eu que fiz ttudo oyavio n fez nada
         }
     }
 }
